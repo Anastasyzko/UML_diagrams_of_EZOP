@@ -9,7 +9,7 @@
 
 
 
-[Проект EZOP](http://ezop-project.ru)
+[Проект EZOP](http://ezop-project.ru)(Заглавная Страница Проекта)
 
 Диаграммы выполнены в программе ARGO UML
 [Загрузить Argo UML можно здесь](http://argouml.tigris.org/)
